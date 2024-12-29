@@ -12,3 +12,5 @@ gridsearchcv allows to find the optimal hyperparameters of each model.next creat
 a variety of algorithms for machine learning were selected  for the project with their own unique strengths
 representation of trees such as random forest and extra tress demonastrtes strong perfromance in adressing various releationship types and thrives on high dimensional
 by using a group of dicision trees together random forest mitigates overfitting and raises accuracy
+extra trees improves performance by randomly varying split points by gradually adding to weaker models gradient boost and adboost showcase effectiveness in enchanching accuracy by targeting earlier errors
+
