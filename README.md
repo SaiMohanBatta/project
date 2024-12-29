@@ -13,4 +13,6 @@ a variety of algorithms for machine learning were selected  for the project with
 representation of trees such as random forest and extra tress demonastrtes strong perfromance in adressing various releationship types and thrives on high dimensional
 by using a group of dicision trees together random forest mitigates overfitting and raises accuracy
 extra trees improves performance by randomly varying split points by gradually adding to weaker models gradient boost and adboost showcase effectiveness in enchanching accuracy by targeting earlier errors
-
+Google colaboratory (colab) serves as a cloud platform for the project 
+machine learning tasks find colab ideal beacuse it grants entry to robust computing resources like GPUs and TPUs permitting the smooth running of complex models free from local hardware limitations 
+this project uses  vital python frameworks such as scikit-learn to create models including random forest and naive bayes.for data preprocessing and manipulation purpose pandas delivers various features to manage missing data and encode category values 
